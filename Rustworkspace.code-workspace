@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "guessing_game"
+		},
+		{
+			"path": "hello_world"
+		}
+	],
+	"settings": {}
+}
